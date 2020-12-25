@@ -1,4 +1,4 @@
-# restaurantDIOsearch 🍖
+# DIOrestauranteFinder
 
 Projeto de criação de um site para encontrar restaurantes usando Google Maps que consulta API do Google pra aula final de Reach da [DIO](https://web.digitalinnovation.one/home), ministrada pelo [Patrick Narciso](https://github.com/patrick-narciso/restaurants-search).
 
